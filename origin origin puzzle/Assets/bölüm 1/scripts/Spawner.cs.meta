@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b1cb250bd45f6934280f7fac07664a88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BirdScript: {instanceID: 0}
+  - Borular: {fileID: 8007692964234138368, guid: 2e1f51395a803d94b98f10c2fc426687, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
